@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 jemele abdo juber jjfile number 5 created. 
+=======
+jemele juber new desktop github file created.
+>>>>>>> main
